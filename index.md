@@ -6,11 +6,10 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Jiayi Zheng(Lance, 郑嘉一)**.
+Here is **Jiayi Zheng(郑嘉一)**.
 
-I am a final-year undergrad majoring in pharmocaology at Shanghai Jiao Tong University. Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI & KDD UC Scholar**.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+I am currently a final-year postgraduate student majoring in Pharmocaology at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), under the supervision of Associate Professor [Yang Yu](https://www.researchgate.net/profile/Yang-Yu-268) at the School of Pharmaceutical Sciences. 
+I am seeking a PhD position for Fall 2025. If you are interested, please feel free to contact me!
 
 ## Academic Background
 
