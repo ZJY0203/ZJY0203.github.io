@@ -6,17 +6,17 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Jiayi Zheng(郑嘉一)**.
+Here is **Jiayi Zheng (郑嘉一)**.
 
 I am currently a final-year postgraduate student majoring in Pharmocaology at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), under the supervision of Associate Professor [Yang Yu](https://www.researchgate.net/profile/Yang-Yu-268) at the School of Pharmaceutical Sciences. 
 I am seeking a PhD position for Fall 2025. If you are interested, please feel free to contact me!
 
 ## Academic Background
 
-- **Sep 2024 - Future:** Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Sep 2022 - June 2025 (Expected):** 
+Master of Pharmacology in School of Pharmaceutical Sciences, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+- **Sep 2018 - June 2022:** 
+Bachelor of Pharmaceutical Engineering in School of Chemistry and Chemical Engineering, [South China University of Technology](https://www.scut.edu.cn/en/).
 
 ---
 
