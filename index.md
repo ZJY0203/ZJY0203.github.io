@@ -14,20 +14,15 @@ I am seeking a PhD position for Fall 2025. If you are interested, please feel fr
 ## Academic Background
 
 - **Sep 2022 - June 2025 (Expected):** 
-Master of Pharmacology in School of Pharmaceutical Sciences, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
+-Master of Pharmacology in School of Pharmaceutical Sciences, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).
 - **Sep 2018 - June 2022:** 
-Bachelor of Pharmaceutical Engineering in School of Chemistry and Chemical Engineering, [South China University of Technology](https://www.scut.edu.cn/en/).
+-Bachelor of Pharmaceutical Engineering in School of Chemistry and Chemical Engineering, [South China University of Technology](https://www.scut.edu.cn/en/).
 
 ---
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- My research interests focus on the underlying mechanisms and potential therapeutic targets of neurodegenerative diseases, such as Alzheimer's disease, and psychiatric disorders, including depression. I am particularly interested in the role and mechanisms of inflammatory cytokines and their receptors in the progression of these disorders.
 
 ---
 
