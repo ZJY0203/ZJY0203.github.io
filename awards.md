@@ -4,27 +4,21 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 27th August 2024
+> Lastest Update: 5th Oct 2024
 
 ## Scholarships
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：FEPG Scholarship ($1400)<br>One of the highest undergraduate awards in my school
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 2022/2023: Study Scholarship, second grade, Shanghai Jiao Tong University.
+-Dec 2021: **National Scholarship**, China' s highest honor for graduate students.
+-Dec 2021: Merit Student, South China University of Technology.
+-June 2020: Excellent Prize, “The 9th Literature Reading Contest”, South China University of Technology & Sun Yat-sen University.
 
-## Competitions (Selected)
+## Academic Conferences
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：Championship of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- Sep 2024: **The 17th annual meeting of Chinese neuroscience society**, Chinese Neuroscience Society. <br> Participate in poster presentation.
+- June 2024: The 13th Shanghai Summit Forum on New Targets and New Drugs Research, Shanghai Pharmacological Society. <br> Won the Excellent Paper Award.
+- Nov 2023: The 6th Oriental Congress of Pharmacology, Chinese Pharmacological Society & Shanghai Pharmacological Society. <br> Won the Excellence Award for oral presentation at the Youth Outstanding Paper Conference.  
+
 
 ## Social Services
 
