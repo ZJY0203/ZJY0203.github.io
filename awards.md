@@ -9,9 +9,9 @@ title: Awards
 ## Scholarships
 
 - 2022/2023: Study Scholarship, second grade, Shanghai Jiao Tong University.
--Dec 2021: **National Scholarship**, China' s highest honor for graduate students.
--Dec 2021: Merit Student, South China University of Technology.
--June 2020: Excellent Prize, “The 9th Literature Reading Contest”, South China University of Technology & Sun Yat-sen University.
+- Dec 2021: **National Scholarship**, China' s highest honor for graduate students.
+- Dec 2021: Merit Student, South China University of Technology.
+- June 2020: Excellent Prize, “The 9th Literature Reading Contest”, South China University of Technology & Sun Yat-sen University.
 
 ## Academic Conferences
 
